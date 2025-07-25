@@ -14,11 +14,11 @@
 
 | 📁 Repository | 🌟 Description |
 |--------------|----------------|
-| [`notes`](https://github.com/L17ctrl/red-team-journey/notes) | Structured notes on red teaming topics like enumeration, privilege escalation, payloads, and more |
-| [`tryhackme-writeups`](https://github.com/L17ctrl/red-team-journey/tryhackme-writeups) | Writeups from TryHackMe labs (with no flags or spoilers) |
-| [`portswigger-labs`](https://github.com/L17ctrl/red-team-journey/portswigger-labs) | Personal walkthroughs and notes from PortSwigger Academy web labs |
-| [`tools`](https://github.com/L17ctrl/red-team-journey/tools) | Custom scripts and tools I’ve written in Bash and Python for automation and recon |
-| [`payloads`](https://github.com/L17ctrl/red-team-journey/payloads) | Collection of common payloads and exploitation techniques |
+| [`notes`](https://github.com/L17ctrl/red-team-journey/blob/main/notes) | Structured notes on red teaming topics like enumeration, privilege escalation, payloads, and more |
+| [`tryhackme-writeups`](https://github.com/L17ctrl/red-team-journey/blob/main/tryhackme-writeups) | Writeups from TryHackMe labs (with no flags or spoilers) |
+| [`portswigger-labs`](https://github.com/L17ctrl/red-team-journey/blob/main/portswigger-labs) | Personal walkthroughs and notes from PortSwigger Academy web labs |
+| [`tools`](https://github.com/L17ctrl/red-team-journey/blob/main/tools) | Custom scripts and tools I’ve written in Bash and Python for automation and recon |
+| [`payloads`](https://github.com/L17ctrl/red-team-journey/blob/main/payloads) | Collection of common payloads and exploitation techniques |
 
 > 🔧 Replace `YOUR-USERNAME` above with your actual GitHub username!
 
