@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucis Wimberly
+# 👋 Hi, I'm L17
 
 🎓 I'm a cybersecurity student at a technical college, with a focus on red teaming, ethical hacking, and offensive security. I'm passionate about learning how real-world attackers operate—and how to defend against them.
 
