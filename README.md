@@ -1,58 +1,59 @@
+# 👋 Hi, I'm Lucis Wimberly
+
+🎓 I'm a cybersecurity student at a technical college, with a focus on red teaming, ethical hacking, and offensive security. I'm passionate about learning how real-world attackers operate—and how to defend against them.
+
+💻 I'm actively building a hands-on portfolio by working through labs on:
+- [TryHackMe](https://tryhackme.com)
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+
+🔒 My goal is to become a red team operator and ethical hacker. This GitHub is my public learning journal and project space—everything here is real work I’m doing to build skill, not just to show off.
 
 ---
 
-## 📘 Topics Covered
+## 🚀 Projects & Learning Repositories
 
-| Topic | Description |
-|-------|-------------|
-| **Linux & Windows Enumeration** | Commands, tools, and techniques used to gather critical information about systems. |
-| **Privilege Escalation** | Strategies for escalating privileges on compromised systems (Linux & Windows). |
-| **Payload Cheat Sheet** | Common payloads for command injection, reverse shells, XSS, etc. |
-| **Burp Suite Notes** | Tips, tools, and workflows for using Burp Suite in web app testing. |
-| **Metasploit** | Key modules, usage patterns, and post-exploitation steps. |
-| **OSINT Techniques** | Tools and workflows for gathering public data on targets. |
-| **Web Exploitation** | Notes on vulnerabilities such as XSS, SQLi, CSRF, and others. |
+| 📁 Repository | 🌟 Description |
+|--------------|----------------|
+| [`notes`](https://github.com/L17ctrl/notes) | Structured notes on red teaming topics like enumeration, privilege escalation, payloads, and more |
+| [`tryhackme-writeups`](https://github.com/L17ctrl/tryhackme-writeups) | Writeups from TryHackMe labs (with no flags or spoilers) |
+| [`portswigger-labs`](https://github.com/L17ctrl/portswigger-labs) | Personal walkthroughs and notes from PortSwigger Academy web labs |
+| [`tools`](https://github.com/L17ctrl/tools) | Custom scripts and tools I’ve written in Bash and Python for automation and recon |
+| [`payloads`](https://github.com/L17ctrl/payloads) | Collection of common payloads and exploitation techniques |
 
----
-
-## 🛠 Tools Referenced
-
-- **Nmap**
-- **Burp Suite**
-- **Metasploit Framework**
-- **LinPEAS / WinPEAS**
-- **theHarvester**
-- **Gobuster / FFUF**
-- **Hydra**
-- ... and many more.
+> 🔧 Replace `YOUR-USERNAME` above with your actual GitHub username!
 
 ---
 
-## 🔍 Why This Repo Exists
+## 📌 What I'm Learning
 
-- 📚 To reinforce what I learn through labs like [TryHackMe](https://tryhackme.com) and [PortSwigger Academy](https://portswigger.net/web-security).
-- 🧠 To create a reference I can return to and expand as I grow.
-- 💼 To demonstrate my initiative and technical depth to potential employers.
-
----
-
-## 📈 Roadmap
-
-✔️ Add detailed Linux and Windows enum checklists  
-✔️ Add payload cheat sheet  
-🔲 Add Active Directory exploitation notes  
-🔲 Expand OSINT techniques and tools  
-🔲 Add custom tool usage examples  
+- 🔍 Web app hacking (XSS, SQLi, CSRF, SSRF, IDOR)
+- ⚙️ Network enumeration & scanning
+- 🧪 Exploiting vulnerable machines (Linux & Windows)
+- 🧠 Privilege escalation techniques
+- 🧰 Tools: Nmap, Burp Suite, Metasploit, LinPEAS, FFUF, etc.
+- 🛠 Building scripts to automate recon and attacks
 
 ---
 
-## 👋 About Me
+## 📈 Road to Red Team
 
-I'm currently a cybersecurity student focused on red teaming, adversary simulation, and ethical hacking. I'm building this repo as part of my public learning journey. Feel free to clone, fork, or contribute ideas!
+✅ Build a structured note repo  
+✅ Complete beginner web security labs  
+🔄 Regularly post TryHackMe/PortSwigger progress  
+🔲 Start personal blog or GitHub Pages  
+🔲 Publish custom red team tooling  
+🔲 Capture The Flag (CTF) writeups  
 
 ---
 
-## 🧭 License
+## 🤝 Connect With Me
 
-This repository is shared for educational purposes under the MIT License.
+- 🔗 [LinkedIn]
+- 📧 Email: 
+- 🌐 Portfolio (coming soon...)
 
+---
+
+> 📌 *This GitHub is an open reflection of my learning path. Everything you see here is part of my journey toward becoming a professional red teamer.*
+
+Thanks for visiting!
